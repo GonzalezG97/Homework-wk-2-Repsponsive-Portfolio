@@ -1,1 +1,0 @@
-# Homework-wk-2-Repsponsive-Portfolio
