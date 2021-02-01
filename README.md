@@ -6,6 +6,7 @@ This is was created for me to prcatice and show my new skills. I used Bootstrap 
 
 You can preview this site by following the link below. 
 
+https://gonzalezg97.github.io/Homework-wk-2-Repsponsive-Portfolio/index.html
 
 ![Screenshot]()
 
