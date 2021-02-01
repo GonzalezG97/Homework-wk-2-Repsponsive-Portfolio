@@ -8,11 +8,7 @@ You can preview this site by following the link below.
 
 https://gonzalezg97.github.io/Homework-wk-2-Repsponsive-Portfolio/index.html
 
-![Screenshot]()
 
-![Screenshot]()
-
-![Screenshot]()
 
 ### Credits
 
